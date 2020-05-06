@@ -2,3 +2,4 @@
 /upload
 /laradock
 /local/vendor
+composer.lock

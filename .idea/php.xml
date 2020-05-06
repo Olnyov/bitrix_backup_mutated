@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/local/vendor/sebekon/complex-component-trait" />
+      <path value="$PROJECT_DIR$/local/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="http://localhost" id="e0e94aaf-94c6-4d46-a3f1-95eaf96e0853" name="laradock" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="var/www" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+</project>

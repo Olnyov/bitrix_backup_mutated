@@ -1,0 +1,18 @@
+{
+  "require": {
+    "sebekon/complex-component-trait": "dev-master"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@git.sebekon.ru:sebekon-repository/backend/bitrix/complex-component-trait.git",
+      "options": {
+        "ssh2": {
+          "username": "olnyov",
+          "pubkey_file": "/home/pavel/.ssh/id_rsa.pub",
+          "privkey_file": "/home/pavel/.ssh/id_rsa"
+        }
+      }
+    }
+  ]
+}
